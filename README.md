@@ -1,10 +1,21 @@
-### Hi there 👋
+### Hello there! 
 
-<!--
-**yuhgirlbrittney/yuhgirlbrittney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-- 😄 Pronouns: she/her
-- 🌱 I’m currently a student working towards my Bachelor of Science in Software Engineering
-- 💬 Feel free to ask me about anything!
+![yuzugif](yuzugif.gif "Yuzu Peace Sign") 
 
--->
+<br>
+
+*Pronouns: she/her*
+
+<br>
+
+I’m currently just a student working towards my Bachelor of Science in Software Engineering. 🌱
+
+<br>
+
+* [x] Start school.
+
+* [ ] Learn how to code.
+
+* [ ] Make a project.
