@@ -2,7 +2,7 @@
 
 <br>
 
-![yuzugif](yuzugif.gif "Yuzu Peace Sign") 
+<img src="52.png" width="100" height="100">
 
 *Pronouns: she/her*
 
@@ -17,3 +17,7 @@ I’m currently just a student working towards my Bachelor of Science in Softwar
 * [ ] Learn how to code.
 
 * [ ] Make a project.
+
+<br>
+
+Thanks for viewing & have a great rest of your day!✨
