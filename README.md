@@ -1,7 +1,5 @@
 ### Hello there! 
 
-<br>
-
 <img src="52.png" width="100" height="100">
 
 *Pronouns: she/her*
