@@ -14,7 +14,9 @@ I’m currently just a student working towards my Bachelor of Science in Softwar
 
 * [ ] Learn how to code.
 
-* [ ] Make a project.
+* [ ] Start a project.
+
+* [ ] Finish a project.
 
 <br>
 
