@@ -4,8 +4,6 @@
 
 ![yuzugif](yuzugif.gif "Yuzu Peace Sign") 
 
-<br>
-
 *Pronouns: she/her*
 
 <br>
