@@ -1,6 +1,6 @@
 ### Hello there! 
 
-<img src="52.png" width="100" height="100">
+<img src="images/peaceout.png" width="100" height="100">
 
 *Pronouns: she/her*
 
