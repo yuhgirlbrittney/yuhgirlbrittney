@@ -1,7 +1,5 @@
 ### Hello there! 
 
-<img src="images/peaceout.png" width="100" height="100">
-
 *Pronouns: she/her*
 
 <br>
@@ -10,13 +8,17 @@ I’m currently just a student working towards my Bachelor of Science in Softwar
 
 <br>
 
-* [x] Start school.
+* [x] Start school
 
-* [ ] Learn how to code.
+* [x] Learn how to code
+      
+* [ ] Learn how to code well
 
-* [ ] Start a project.
+* [x] Start a project
 
-* [ ] Finish a project.
+* [x] Finish a project
+      
+* [ ] Start an internship
 
 <br>
 
